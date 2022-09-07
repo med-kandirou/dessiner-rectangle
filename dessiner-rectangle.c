@@ -5,6 +5,7 @@ main()
 
     int ligne;
     int colone;
+    int c;
 
     printf("saisir le nombre de ligne : ");
     scanf("%d",&ligne);
