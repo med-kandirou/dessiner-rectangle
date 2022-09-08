@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <math.h>
-main()
+int main()
 {
-    //comment for test
-     //comment for test 2
+
     int ligne;
     int colone;
 
