@@ -2,7 +2,6 @@
 #include <math.h>
 int main()
 {
-
     int ligne;
     int colone;
 
